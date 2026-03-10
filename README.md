@@ -1,1 +1,2 @@
-# Jogo_Trex
+# JogoTrex
+Utilizamos a biblioteca P5.JS. 
